@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to 4C0DE04! :tada: on 4C0DE04</title>
+    <link>https://Qixiloo.github.io/</link>
+    <description>Recent content in Welcome to 4C0DE04! :tada: on 4C0DE04</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Qxiloo</copyright>
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://Qixiloo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Blowfish</title>
+      <link>https://Qixiloo.github.io/docs/welcome/</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Qixiloo.github.io/docs/welcome/</guid>
+      <description>Blowfish is packed with tons of features. The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of Congo and expands its initial vision.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Qixiloo.github.io/docs/welcome/featured.png" />
+    </item>
+    
+    <item>
+      <title>Recipe Template</title>
+      <link>https://Qixiloo.github.io/guides/template/</link>
+      <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
+      
+      <guid>https://Qixiloo.github.io/guides/template/</guid>
+      <description>Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.
+How to start? # This is a template article that will explain how to create a new article for Blowfish&amp;rsquo;s guide section.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Qixiloo.github.io/guides/template/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
